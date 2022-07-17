@@ -1,6 +1,6 @@
-## Crear un proyecto de React con Vite
+# Crear un proyecto de React con Vite
 
-# Instrucciónes
+## Instrucciónes
 
 1. Desde la linea de comandos o terminal:
   npm create vite (enter)
@@ -16,4 +16,4 @@
 6. Para ejecutar el proyecto usar el comando:
   npm run dev
 
-### Nota: Todos los archivos deben ser de extensión "JSX"
+#### Nota: Todos los archivos deben ser de extensión "JSX"
